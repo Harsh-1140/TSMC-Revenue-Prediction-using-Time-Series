@@ -51,9 +51,6 @@ To use this repository, follow these steps:
 
    Visit the `Plots` directory to explore the generated visualizations for revenue trends, model performance, and forecasted revenue. Modify or create new plots as needed for deeper insights.
 
-7. **Read the Final Report**
-
-   Refer to the `Final Report` directory for a comprehensive overview of the project objectives, methodology, results, and conclusions. Use this report to gain insights for decision-making or further research in time series forecasting.
 
 ## Contributing
 
